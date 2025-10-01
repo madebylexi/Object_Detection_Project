@@ -8,6 +8,7 @@ I built a Blender-based digital twin of a flood-prone community and simulated a 
 
 <figure>
   <img width="603" height="403" alt="Flood digital twin scene in Blender with UAV perspective" src="https://github.com/user-attachments/assets/9b49fef0-4584-49fa-9a80-c25ba4297730" />
+  
   <figcaption><em>Blender digital twin of a flooded community; UAV flyover for detection.</em></figcaption>
 </figure>
 
